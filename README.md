@@ -7,7 +7,7 @@
 <h3 align="center">I'm Currently pursuing my Bachelor In Technology in Computer Science & Engineering 🏫 from [ GLA University, Mathura , U.P] </h3>
 <hr>
 
-<img align ="right" alt="Coding" width="400" src="https://assets3.lottiefiles.com/packages/lf20_x9puwsf6.json">
+<img align ="right" alt="Coding" width="400" src="https://lottiefiles.com/45698-a-cool-boy-standing">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amit-2526&label=Profile%20views&color=0e75b6&style=flat" alt="amit-2526" /> </p>
 
