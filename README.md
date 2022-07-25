@@ -30,6 +30,7 @@
     <br>
     <br>
     <br>
+    <hr>
     
 <h4 align="centre">Show some ❤️ by starring ⭐ some of the repositories!</h4>
 <p align="centre">
