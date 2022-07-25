@@ -23,7 +23,6 @@
 - 📫 How to reach me: **yadavsanish373@gmail.com**
 - 😄 Pronouns: He/him/his
 - ⚡ Fun fact: I'm **Khiladi**😉
--->
 
 <h4 align="left">👨‍💻 Language and Tools</h4>
 <p align="left"> <img src="https://raw.githubusercontent.com/Subhampreet/Subhampreet/master/logos/html.png" width="50px" alt="HTML">
