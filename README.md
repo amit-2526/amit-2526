@@ -29,8 +29,7 @@
     <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="50px" alt="java"> </p>
     <br>
     <br>
-    <br>
     <hr>
     
-<h4 align="centre">Show some ❤️ by starring ⭐ some of the repositories!</h4>
+<h3 align="centre">Show some ❤️ by starring ⭐ some of the repositories!</h4>
 
