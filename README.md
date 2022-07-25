@@ -19,7 +19,7 @@
 <h4 align="left"> 🛠 Technical Skills </h4>
 
 - 🔭 I’m currently working on Web Development
-- 🌱 I’m currently learning **Java & Data Structures**
+- 🌱 Learning **Java & Data Structures**
 - 📫 How to reach me: **yadavsanish373@gmail.com**
 - 😄 Pronouns: He/him/his
 - ⚡ Fun fact: I'm **Khiladi**😉
