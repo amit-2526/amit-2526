@@ -7,7 +7,7 @@
 <h3 align="center">I'm Currently pursuing my Bachelor In Technology in Computer Science & Engineering 🏫 from [ GLA University, Mathura , U.P] </h3>
 <hr>
 
-<img align ="right" alt="Coding" width="450px" height="500px" src="https://img.freepik.com/free-vector/cute-boy-standing-position-showing-thumb_96037-450.jpg?t=st=1658722051~exp=1658722651~hmac=cf6caab66e27cea4024e08bb3488dc7288c9e7fc504490e750f93bdd42a88b78&w=1060">
+<img align ="right" alt="Coding" width="450px" height="450px" src="https://img.freepik.com/free-vector/cute-boy-standing-position-showing-thumb_96037-450.jpg?t=st=1658722051~exp=1658722651~hmac=cf6caab66e27cea4024e08bb3488dc7288c9e7fc504490e750f93bdd42a88b78&w=1060">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amit-2526&label=Profile%20views&color=0e75b6&style=flat" alt="amit-2526" /> </p>
 
