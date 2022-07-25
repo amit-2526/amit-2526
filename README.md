@@ -27,4 +27,11 @@
     <img src="https://raw.githubusercontent.com/Subhampreet/Subhampreet/master/logos/vs.png" width="50px" alt="vs">
     <img src="https://raw.githubusercontent.com/Subhampreet/Subhampreet/master/logos/bootstrap.png" width="50px" alt="Bootsrap">
     <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="50px" alt="java"> </p>
+    
+<h4 align="centre">Show some ❤️ by starring ⭐ some of the repositories!</h4>
+<p align="centre">
+<a href="https://www.linkedin.com/feed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Amit Yadav" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_amit_yadav.__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_amit_yadav.__" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/dashboard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Amit" height="30" width="40" /></a>
+</p>
 
