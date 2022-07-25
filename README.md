@@ -1,6 +1,6 @@
 <img alt="Coding" width="100%" src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png">
 
-<h1 align="center">🜲 नमस्ते (Namaste), I'm Amit Kumar Yadav </h1>
+<h1 align="center">नमस्ते (Namaste) 🙏, I'm Amit Kumar Yadav </h1>
 <h2 align="center">A passionate developer from India ❤️</h2>
 <hr>
 
